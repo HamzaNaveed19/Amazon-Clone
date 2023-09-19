@@ -12,7 +12,7 @@ This project is a simple replica of Amazon's homepage with categories. It provid
 
 ## Getting Started
 
-To view the homepage with product categories:
+To view the homepage with product categories: 
 
 1. Clone or download this repository.
 2. Open the `index.html` file in your web browser.
